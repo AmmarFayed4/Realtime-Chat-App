@@ -118,4 +118,4 @@ npm start
 
 ## 👨‍💻 Built by Ammar Fayed
 
-Proficient in backend development, API design, and real-time systems.
+Proficient in backend development, API design.
