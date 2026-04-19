@@ -68,7 +68,6 @@ CLIENT_URL=http://localhost:3000
 REACT_APP_SOCKET_URL=http://localhost:5000
 ```
 
-> Be sure to add these manually and never commit actual `.env` files to GitHub.
 
 ---
 
